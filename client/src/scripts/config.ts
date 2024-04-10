@@ -1,7 +1,7 @@
 export const Config = {
     regions: {
         dev: { name: "Local Server", address: "127.0.0.1:6942", https: false },
-        devpublic: { name: "Less Autism", address: "98.234.71.160:6942", https: false }
+        devpublic: { name: "Less Autism", address: "98.234.71.160:6942", https: false },
         naw: { name: "NA WEST", address: "teleport-suroi.onrender.com:6942", https: false }
     },
     defaultRegion: "naw",
