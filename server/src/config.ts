@@ -34,10 +34,7 @@ export const Config = {
 
     censorUsernames: true,
 
-    roles: {
-        hmm: { password: "dommymommyraiden", isDev: true },
-        dannyboi: { password: "7YU9320R19VeIXHYik1W", isDev: true }
-    }
+    roles: {}
 } satisfies ConfigType as ConfigType;
 
 export interface ConfigType {
